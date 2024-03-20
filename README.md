@@ -1,2 +1,2 @@
 # sptifyclone
-This is a spotify clone
+This is a spotify clone.
